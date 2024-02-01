@@ -13,7 +13,7 @@ body {
   .mypic {
     background-image: url('C:\Users\QAIS\Desktop\aiPIC.jpg');
     position: absolute;
-    bottom: 10%; /* Adjust as needed */
+    bottom: 30%; /* Adjust as needed */
     right: 99px; /* Adjust as needed */
     border-radius: 75%;
     width: 250px;
