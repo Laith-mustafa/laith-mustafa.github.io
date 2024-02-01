@@ -1,0 +1,144 @@
+body {
+    background-image: url("C:\Users\QAIS\Desktop\aiPIC.jpg");
+    /* Optional properties */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  .mypic {
+    background-image: url('C:\Users\QAIS\Desktop\aiPIC.jpg');
+    position: absolute;
+    bottom: 10%; /* Adjust as needed */
+    right: 99px; /* Adjust as needed */
+    border-radius: 75%;
+    width: 250px;
+    height: 250px;
+    
+  }
+  #link{
+   
+    font-weight: 100px;
+    color: black;
+    width: 100x;
+    height: 50px; 
+    top: 600px;
+    left: 50px;
+  }
+  .logold{
+    background-image: url('C:\Users\QAIS\Desktop\linkdinlogob.png');
+    height: 30px; 
+    top: 1300px;
+    right: 310px;
+    position: absolute;
+    
+  }
+  #EMAIL{
+    font-weight: 100px;
+    color: black;
+    width: 100x;
+    height: 50px; 
+    top: 600px;
+    left: 200px;
+  }
+  .logoemail {
+    background-image: url('C:\Users\QAIS\Desktop\emaillogewit.png');
+    height: 30px; 
+    top: 1300px;
+    right: 240px;
+    position: absolute;
+  }
+  #Instgram{
+    font-weight: 100px;
+    color: black;
+    width: 100x;
+    height: 50px; 
+    top: 600px;
+    left: 200px;
+  }
+  .logoinsta {
+    background-image: url('C:\Users\QAIS\Desktop\instalogo.png');
+    height: 36px; 
+    top: 1300px;
+    right: 170px;
+    position: absolute;
+  }
+  #GITHUB{
+    font-weight: 100px;
+    color: black;
+    width: 100x;
+    height: 50px; 
+    top: 600px;
+    left: 200px;
+  }
+  .logogi{
+    background-image: url('C:\Users\QAIS\Desktop\githublogo.png');
+    height: 36px; 
+    top: 1297px;
+    right: 100px;
+    position: absolute;
+  }
+  .AI{
+    background-image: url('C:\Users\QAIS\Desktop\PP.png');
+    height: 150px; 
+    top: 150px;
+    left: 600px;
+    position: absolute;
+  }
+  .AII{
+    background-image: url('C:\Users\QAIS\Desktop\AII.png');
+    height: 150px; 
+    top: 300px;
+    right: 400px;
+    position: absolute;
+  }
+  .AIII{
+    background-image: url('C:\Users\QAIS\Desktop\AIIII.png');
+    height: 150px; 
+    top: 500px;
+    right: 600px;
+    position: absolute;
+  }
+  .AIIII{
+    background-image: url('C:\Users\QAIS\Desktop\AIIIII.png');
+    height: 150px; 
+    top: 500px;
+    right: 100PX;
+    position: absolute;
+  }
+  .AIIIII{
+    background-image: url('C:\Users\QAIS\Desktop\python_logo.png');
+    height: 150px; 
+    top: 150px;
+    right: 100PX;
+    position: absolute;
+  }
+  header {
+    background-color: #12113b;
+    color: black;
+    text-align: center;
+    padding: 1em ;
+  }
+  h1 {
+    margin: 0;
+    color: #f4f4f4;
+  }
+  div {
+    max-width: 600px;
+    margin: auto;
+    padding: 2em;
+    text-align: left;
+  }
+  footer {
+    background-color: f4f4f4;
+    color: black;
+    text-align: center;
+    padding: 1em ;
+    position: absolute;
+    bottom: 30;
+    width: 100%;
+  }
